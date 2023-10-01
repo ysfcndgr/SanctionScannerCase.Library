@@ -3,7 +3,7 @@
 Projede Domain Driven Design tasarım yöntemini kullandım. Pattern olarak MediaTR, CQRS, UnitOfWork, Yazma ve okuma işlemleri için ayrı Generic Repository'ler oluşturdum.Web projesini ayağa kaldırdığınız zaman 
 migrationların otomatik olarak çalışması için kod yazdım böylelikle Web projesini çalıştırdığınızda local db'nizde db'nin ve tablonunuzun oluşması lazım. Örnek olması açısından projeye UnitTest ekledim ve
 2 durumu örnek olarak gösterdim. Yine örnek olması açısından bir api projesi ekledim ve bir örnek yaptım, proje içerisinde SanctionScanner.WebApi.postman_collection.json adında postman collection bıraktım.
-Loglama için serilog kullandım.
+Loglama için serilog kullandım logları C dizinin altında Logs klasörünün altına logluyor.
 Frontend tarafında bildirimler için toastr kütüphanesi kullandım, jquery validasyon kullandım ve bootsrap kullandım. Validasyon işlemlerini hem frontend hem backend tarafında kontrol ettim. Ekleme listeleme ve 
 ödünç ver butonuna basıldıktan sonra kaydedilmesi durumunda en çok dikkat ettiğim sayfanın yenilenmeden devam etmesini sağladım.Sayfaya paging ekledim 10 tane kayıttan fazla ekleyince paging navbarının görünmesini sağladım.
 
