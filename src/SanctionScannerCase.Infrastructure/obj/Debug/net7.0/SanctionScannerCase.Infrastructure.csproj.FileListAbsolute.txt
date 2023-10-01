@@ -1,0 +1,11 @@
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Infrastructure\obj\Debug\net7.0\SanctionScannerCase.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Infrastructure\obj\Debug\net7.0\SanctionScannerCase.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Infrastructure\obj\Debug\net7.0\SanctionScannerCase.Infrastructure.AssemblyInfo.cs
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Infrastructure\obj\Debug\net7.0\SanctionScannerCase.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Infrastructure\bin\Debug\net7.0\SanctionScannerCase.Infrastructure.deps.json
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Infrastructure\bin\Debug\net7.0\SanctionScannerCase.Infrastructure.dll
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Infrastructure\bin\Debug\net7.0\SanctionScannerCase.Infrastructure.pdb
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Infrastructure\obj\Debug\net7.0\SanctionScannerCase.Infrastructure.dll
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Infrastructure\obj\Debug\net7.0\refint\SanctionScannerCase.Infrastructure.dll
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Infrastructure\obj\Debug\net7.0\SanctionScannerCase.Infrastructure.pdb
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Infrastructure\obj\Debug\net7.0\ref\SanctionScannerCase.Infrastructure.dll

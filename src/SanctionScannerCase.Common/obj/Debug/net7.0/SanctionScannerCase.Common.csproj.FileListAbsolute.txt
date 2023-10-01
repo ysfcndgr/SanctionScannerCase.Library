@@ -1,0 +1,12 @@
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\bin\Debug\net7.0\SanctionScannerCase.Common.deps.json
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\bin\Debug\net7.0\SanctionScannerCase.Common.dll
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\bin\Debug\net7.0\SanctionScannerCase.Common.pdb
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\obj\Debug\net7.0\SanctionScannerCase.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\obj\Debug\net7.0\SanctionScannerCase.Common.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\obj\Debug\net7.0\SanctionScannerCase.Common.AssemblyInfo.cs
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\obj\Debug\net7.0\SanctionScannerCase.Common.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\obj\Debug\net7.0\SanctionScannerCase.Common.dll
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\obj\Debug\net7.0\refint\SanctionScannerCase.Common.dll
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\obj\Debug\net7.0\SanctionScannerCase.Common.pdb
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\obj\Debug\net7.0\ref\SanctionScannerCase.Common.dll
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Common\obj\Debug\net7.0\SanctionScannerCase.Common.csproj.AssemblyReference.cache

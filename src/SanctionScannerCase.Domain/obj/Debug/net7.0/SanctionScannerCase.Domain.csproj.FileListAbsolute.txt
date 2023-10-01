@@ -1,0 +1,15 @@
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\bin\Debug\net7.0\SanctionScannerCase.Domain.deps.json
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\bin\Debug\net7.0\SanctionScannerCase.Domain.dll
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\bin\Debug\net7.0\SanctionScannerCase.Domain.pdb
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\bin\Debug\net7.0\SanctionScannerCase.Common.dll
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\bin\Debug\net7.0\SanctionScannerCase.Common.pdb
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\obj\Debug\net7.0\SanctionScannerCase.Domain.csproj.AssemblyReference.cache
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\obj\Debug\net7.0\SanctionScannerCase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\obj\Debug\net7.0\SanctionScannerCase.Domain.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\obj\Debug\net7.0\SanctionScannerCase.Domain.AssemblyInfo.cs
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\obj\Debug\net7.0\SanctionScannerCase.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\obj\Debug\net7.0\SanctionScannerCase.Domain.csproj.CopyComplete
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\obj\Debug\net7.0\SanctionScannerCase.Domain.dll
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\obj\Debug\net7.0\refint\SanctionScannerCase.Domain.dll
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\obj\Debug\net7.0\SanctionScannerCase.Domain.pdb
+C:\Users\Can\source\repos\SanctionScannerCase\src\SanctionScannerCase.Domain\obj\Debug\net7.0\ref\SanctionScannerCase.Domain.dll

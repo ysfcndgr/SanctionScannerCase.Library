@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UqFwlSk9aOQt6mn8b2yUexs8iV9rYA9QAfycJMhTHag=",
+  "Source": "SanctionScanner.WebApi",
+  "BasePath": "_content/SanctionScanner.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
