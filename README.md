@@ -5,7 +5,7 @@ migrationların otomatik olarak çalışması için kod yazdım böylelikle Web 
 2 durumu örnek olarak gösterdim. Yine örnek olması açısından bir api projesi ekledim ve bir örnek yaptım, proje içerisinde SanctionScanner.WebApi.postman_collection.json adında postman collection bıraktım.
 Loglama için serilog kullandım.
 Frontend tarafında bildirimler için toastr kütüphanesi kullandım, jquery validasyon kullandım ve bootsrap kullandım. Validasyon işlemlerini hem frontend hem backend tarafında kontrol ettim. Ekleme listeleme ve 
-ödünç ver butonuna basıldıktan sonra kaydedilmesi durumunda sayfanın yenilenmeden akışına devam etmesini sağladım.Sayfaya paging ekledim 10 tane kayıttan fazla ekleyince paging navbarının görünmesini sağladım.
+ödünç ver butonuna basıldıktan sonra kaydedilmesi durumunda en çok dikkat ettiğim sayfanın yenilenmeden devam etmesini sağladım.Sayfaya paging ekledim 10 tane kayıttan fazla ekleyince paging navbarının görünmesini sağladım.
 
 # Index
 
