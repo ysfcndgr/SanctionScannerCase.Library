@@ -8,26 +8,29 @@ Frontend tarafında bildirimler için toastr kütüphanesi kullandım, jquery va
 ödünç ver butonuna basıldıktan sonra kaydedilmesi durumunda sayfanın yenilenmeden akışına devam etmesini sağladım.Sayfaya paging ekledim 10 tane kayıttan fazla ekleyince paging navbarının görünmesini sağladım.
 
 # Index
-![image](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/edb6b2df-e850-48a9-b2f9-babeae9f02f8)
+
+![1](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/e979afd6-3148-4354-823f-40ca094ddafa)
 
 # Validasyonlar
 
-![image](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/74016c99-39b2-489c-888f-1ca93dcc6aed)
-![image](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/f1853497-9f29-4276-af18-7ab97ee2c383)
+![2](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/9a2d7724-ecda-4298-ada6-6b2114f20559)
+
+![3](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/a98fe4fd-90ca-4735-8a78-4e467c2c7ad6)
 
 # Kitap Ekleme
 
-![image](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/6fc618ae-cde8-4284-ae2b-354829522086)
-![image](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/aa879a2a-8dab-4876-8686-5c408bcd0f04)
+![4](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/c7147b7e-9737-40ca-bf22-41351002ae64)
+
+![5](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/eecab3fc-36c3-4316-a865-2874a6a75af1)
 
 # Ödünç Verme
 
-![image](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/98ad6170-32d6-4836-8fc6-bb0eb777e223)
+![6](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/c885f0c3-be50-4998-8220-570cc6c92349)
 
 # Paging
 
 10 taneden fazla öğe eklendiği zaman paging aktif olur.
 
-![image](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/9c252ec8-5fea-4767-8c3c-53c10a829c9b)
-![image](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/9b3e8ab4-c25f-42fd-aa17-1a38db5527d0)
+![7](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/e8dd4011-c9c4-4154-8a4a-fabb45ee19d8)
 
+![8](https://github.com/ysfcndgr/SanctionScannerCase.Library/assets/32979760/ecce7bd6-1384-4693-a7d8-0c30dc3d29a7)
